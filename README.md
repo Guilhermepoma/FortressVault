@@ -25,7 +25,7 @@ pip install customtkinter pillow
 Execute a aplicação com o comando:
 
 ```bash
-python app.py
+python FortressVault.py
 ```
 
 A aplicação irá:
